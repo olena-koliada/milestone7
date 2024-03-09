@@ -1,0 +1,13 @@
+GET http://localhost:5000/birthdates?month=1&department=HR
+
+###
+
+# GET http://localhost:5000/birthdates?month=1
+
+###
+
+GET http://localhost:5000/anniversaries?month=5&department=HR
+
+###
+
+# GET http://localhost:5000/anniversaries?month=5
